@@ -53,11 +53,11 @@
     "uglify-js": "^3.7.6"
   },
   "dependencies": {
-    "@turf/turf": "^5.1.6",
-    "@types/lodash": "^4.14.149",
-    "@types/mapbox-gl": "^1.6.3",
-    "events": "^3.1.0",
-    "lodash": "^4.17.15",
-    "mapbox-gl": "^1.6.1"
+    "@turf/turf": "^6.5.0",
+    "@types/lodash": "^4.14.182",
+    "@types/mapbox-gl": "^2.7.5",
+    "events": "^3.3.0",
+    "lodash": "^4.17.21",
+    "mapbox-gl": "^2.9.2"
   }
 }
